@@ -1,4 +1,4 @@
-ARG KEYCLOAK_VERSION=24.0.4
+ARG KEYCLOAK_VERSION=25.0.4
 FROM quay.io/keycloak/keycloak:$KEYCLOAK_VERSION AS builder
 
 # Enable health and metrics support

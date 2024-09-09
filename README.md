@@ -8,3 +8,4 @@ some modifications to make it more suitable for fast start-up times.
 | Image Version | Keycloak Version |
 |---------------|------------------|
 | 1.0.x         | 24.0.2           |
+| 1.1.x         | 25.0.4           |
