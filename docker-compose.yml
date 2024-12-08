@@ -1,6 +1,6 @@
 services:
   database:
-    image: postgres:16.2-alpine
+    image: postgres:17.2-alpine
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: root
@@ -15,7 +15,7 @@ services:
       retries: 5
 
   keycloak:
-    image: quay.io/keycloak/keycloak:25.0.4
+    image: quay.io/keycloak/keycloak:26.0.7
     links:
       - database
     depends_on:
