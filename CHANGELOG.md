@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CycriLabs/keycloak/compare/1.1.0...1.2.0) (2024-12-10)
+
+
+### Features
+
+* bump keycloak to 26.0.7 ([5e61b8d](https://github.com/CycriLabs/keycloak/commit/5e61b8d4b2d56d782d643197bc6a257618722afa))
+
 # [1.1.0](https://github.com/CycriLabs/keycloak/compare/1.0.0...1.1.0) (2024-09-09)
 
 
