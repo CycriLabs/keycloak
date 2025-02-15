@@ -5,7 +5,7 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: root
     ports:
-      - 5432:5432
+      - "5432:5432"
     volumes:
       - ./postgres-init-user-db.sql:/docker-entrypoint-initdb.d/init-users.sql:Z
     healthcheck:
@@ -33,7 +33,7 @@ services:
     command:
       - start-dev
     ports:
-      - 8080:8080
+      - "8080:8080"
     healthcheck:
       test:
         [
@@ -64,7 +64,7 @@ services:
       KC_HTTP_ENABLED: true
     command: [ "start", "--optimized" ]
     ports:
-      - 8080:8080
+      - "8080:8080"
     healthcheck:
       test:
         [
