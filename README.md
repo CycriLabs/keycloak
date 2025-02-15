@@ -10,3 +10,4 @@ some modifications to make it more suitable for fast start-up times.
 | 1.0.x         | 24.0.2           |
 | 1.1.x         | 25.0.4           |
 | 1.2.x         | 26.0.7           |
+| 1.3.x         | 26.1.2           |
