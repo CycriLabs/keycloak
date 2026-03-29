@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/CycriLabs/keycloak/compare/1.7.0...1.7.1) (2026-03-29)
+
+
+### Bug Fixes
+
+* bump keycloak to 26.5.6 ([8804b46](https://github.com/CycriLabs/keycloak/commit/8804b460977cee05887372e0dfc52ea4ef5e7107))
+
 # [1.7.0](https://github.com/CycriLabs/keycloak/compare/1.6.1...1.7.0) (2026-01-17)
 
 
