@@ -1,7 +1,6 @@
 # Optimized Keycloak Image
 
-This is a keycloak image that is optimized. It is based on the official keycloak image, but with
-some modifications to make it more suitable for fast start-up times.
+This is a keycloak image that is optimized. It is based on the official keycloak image, but with some modifications to make it more suitable for fast start-up times.
 
 ## Versions
 
@@ -16,3 +15,4 @@ some modifications to make it more suitable for fast start-up times.
 | 1.6.x         | 26.4.5           |
 | 1.7.x         | 26.5.6           |
 | 1.8.x         | 26.6.3           |
+| 1.9.x         | 26.7.0           |
